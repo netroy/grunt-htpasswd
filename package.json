@@ -1,0 +1,29 @@
+{
+  "name": "grunt-htpasswd",
+  "version": "0.0.0",
+  "description": "Grunt task to generate a htpasswd file",
+  "main": "index.js",
+  "scripts": {
+    "test": "make specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netroy/grunt-htpasswd.git"
+  },
+  "keywords": [
+    "grunt",
+    "htpasswd",
+    "apache",
+    "nginx"
+  ],
+  "author": "NetRoY <aditya@netroy.in> (http://netroy.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/netroy/grunt-htpasswd/issues"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "jshint": "~2.1.10",
+    "mocha": "~1.12.1"
+  }
+}
